@@ -55,6 +55,20 @@ text {
   animation: Logo--spin infinite 20s linear;
 }
 
+.Footer{
+  width: 85%;
+  border-radius: 15px;
+  margin: 6px;
+  background-color: #fe008c;
+  padding: 15px;
+  margin-top: 25px;
+
+}
+
+.text-center{
+  text-align: center;
+}
+
 .Logo--lynx {
   width: 100px;
   height: 100px;
